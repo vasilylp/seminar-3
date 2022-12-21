@@ -104,3 +104,5 @@ git diff <hash1> <hash2>
 git branch <branch_name>
 
 ```
+Затем переключитесь на новую ветку с помощью команды < git checkout new_branch. > 
+***
